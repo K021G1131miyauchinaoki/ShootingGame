@@ -55,6 +55,7 @@ public class EnemyWayShot : MonoBehaviour
         {
             //äpìxí≤êﬂ
             float bulletWaySpaceSplit = 0;
+
             for (int i = 0; i < bulletWayNum; i++)
             {
                 //íeê∂ê¨
